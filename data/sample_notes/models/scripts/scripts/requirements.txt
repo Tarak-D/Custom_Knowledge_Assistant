@@ -1,0 +1,9 @@
+langchain
+openai
+faiss-cpu
+python-dotenv
+streamlit
+tiktoken
+markdown2
+PyMuPDF
+notion-client
